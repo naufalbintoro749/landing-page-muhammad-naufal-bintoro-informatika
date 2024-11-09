@@ -35,6 +35,7 @@ body {
 }
 .profile p {
     margin: 5px 0;
+    font-style: unset;
     font-size: 18px;
 }
 .gallery {
@@ -46,4 +47,8 @@ body {
 .gallery img {
     width: 100%;
     height: auto;
+}
+.footer {background-color: #c8ff00;
+color:black;
+font-size: 10px;
 }
